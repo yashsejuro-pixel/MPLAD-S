@@ -1,4 +1,4 @@
-# MPLADS AI Monitoring Demo
+[# MPLADS AI Monitoring Demo
 
 A prototype dashboard for exploring MPLADS-style project data, risk indicators, and audit-review workflows.
 
@@ -57,4 +57,4 @@ This is a description of the prototype's intended workflow, not an assessment of
 
 - Treat risk scores, anomaly flags, and duplicate candidates as prompts for investigation. Verify them against source documents.
 - The current server uses generated sample projects and in-memory demo state; it is not a persistent production data platform.
-- The public URL uses unencrypted HTTP. Do not enter sensitive data or credentials.
+- The public URL uses unencrypted HTTP. Do not enter sensitive data or credentials.](http://13.48.137.1:3000/)
