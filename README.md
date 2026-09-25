@@ -1,12 +1,12 @@
 # MPLAD-S: AI-Powered Public Project Monitoring & Risk Assessment System
 
-> An intelligent dashboard solution for streamlined monitoring, risk assessment, and audit workflows of public infrastructure projects funded under the Member of Parliament Local Area Development (MPLAD) scheme.
+- An intelligent dashboard solution for streamlined monitoring, risk assessment, and audit workflows of public infrastructure projects funded under the Member of Parliament Local Area Development (MPLAD) scheme.
 
 ## 🚀 Live Demo
 
 **[Open MPLAD-S Dashboard](http://13.48.137.1:3000/)**
 
-> Use sample data and demo accounts. This is an evaluation environment—do not submit real or sensitive information.
+- Use sample data and demo accounts. This is an evaluation environment—do not submit real or sensitive information.
 
 ## 🎯 The Problem We're Solving
 
